@@ -10,6 +10,7 @@ Initial release
 #### Contributor
 
 [Dheer Jangra](https://github.com/djangra1009/)
+[OWL Carousel](http://owlgraphic.com/owlcarousel/)
 
 ## License
 
